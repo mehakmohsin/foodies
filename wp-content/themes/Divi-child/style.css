@@ -1,0 +1,32 @@
+/*!
+Theme Name: Divi-child
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Template: Divi
+Version: 3.22.7
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Author: Elegant Themes
+Author URI: http://www.elegantthemes.com
+Tags: responsive-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+License: GNU General Public License v2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Divi-child
+*/
+
+
+
+
+    #et-secondary-menu ul li{background: #007981;
+        color: #FFF;
+        font-size: 14px;
+        min-width: 43px;
+        padding: 3px 25px;
+        line-height: 19px;
+        display: inline-block;
+        text-align: center;
+        border-radius: 103px;
+        box-shadow: inset 0 2px 0 0px rgba(255,255,255,0.4);
+        border: 2px solid #007981;
+        font-weight: 600;
+    }
+       
+    
